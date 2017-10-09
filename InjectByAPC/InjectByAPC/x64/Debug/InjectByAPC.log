@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  InjectByAPC.cpp
+j:\注入\injectbyapc\injectbyapc\injectbyapc.cpp(6): warning C4005: “_WIN32_WINNT”: 宏重定义
+  c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(200): note: 参见“_WIN32_WINNT”的前一个定义
+j:\注入\injectbyapc\injectbyapc\injectbyapc.cpp(166): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在生成代码...
+  InjectByAPC.vcxproj -> J:\注入\InjectByAPC\x64\Debug\InjectByAPC.exe

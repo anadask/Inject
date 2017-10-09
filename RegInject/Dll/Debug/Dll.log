@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Dll.cpp
+  dllmain.cpp
+  Dll.vcxproj -> J:\注入\RegInject\Debug\Dll.dll

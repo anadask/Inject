@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  InjectByAPC.cpp
+j:\注入\injectbyapc\injectbyapc\injectbyapc.cpp(6): warning C4005: “_WIN32_WINNT”: 宏重定义
+  c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(200): note: 参见“_WIN32_WINNT”的前一个定义
+j:\注入\injectbyapc\injectbyapc\injectbyapc.cpp(77): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“WCHAR *”
+  j:\注入\injectbyapc\injectbyapc\injectbyapc.cpp(77): note: 请考虑在格式字符串中使用“%ls”
+  j:\注入\injectbyapc\injectbyapc\injectbyapc.cpp(77): note: 请考虑在格式字符串中使用“%lls”
+  j:\注入\injectbyapc\injectbyapc\injectbyapc.cpp(77): note: 请考虑在格式字符串中使用“%Ls”
+  j:\注入\injectbyapc\injectbyapc\injectbyapc.cpp(77): note: 请考虑在格式字符串中使用“%ws”
+  正在生成代码...
+  InjectByAPC.vcxproj -> J:\注入\InjectByAPC\Debug\InjectByAPC.exe

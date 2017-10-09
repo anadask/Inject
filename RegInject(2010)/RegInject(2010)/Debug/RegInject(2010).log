@@ -1,0 +1,30 @@
+﻿生成启动时间为 2016/10/30 10:07:00。
+     1>项目“J:\注入\RegInject(2010)\RegInject(2010)\RegInject(2010).vcxproj”在节点 2 上(rebuild 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“J:\注入\RegInject(2010)\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\RegInject(2010).unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\SoftWare\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "RegInject(2010).cpp" stdafx.cpp
+         stdafx.cpp
+         RegInject(2010).cpp
+     1>j:\注入\reginject(2010)\reginject(2010)\reginject(2010).cpp(16): warning C4129: “ ”: 不可识别的字符转义序列
+     1>j:\注入\reginject(2010)\reginject(2010)\reginject(2010).cpp(20): error C2784: “std::_String_iterator<_Elem,_Traits,_Alloc> std::operator +(_String_iterator<_Elem,_Traits,_Alloc>::difference_type,std::_String_iterator<_Elem,_Traits,_Alloc>)”: 未能从“const wchar_t [2]”为“std::_String_iterator<_Elem,_Traits,_Alloc>”推导 模板 参数
+                 d:\software\vs2010\vc\include\xstring(434) : 参见“std::operator +”的声明
+     1>j:\注入\reginject(2010)\reginject(2010)\reginject(2010).cpp(20): error C2784: “std::_String_const_iterator<_Elem,_Traits,_Alloc> std::operator +(_String_const_iterator<_Elem,_Traits,_Alloc>::difference_type,std::_String_const_iterator<_Elem,_Traits,_Alloc>)”: 未能从“const wchar_t [2]”为“std::_String_const_iterator<_Elem,_Traits,_Alloc>”推导 模板 参数
+                 d:\software\vs2010\vc\include\xstring(293) : 参见“std::operator +”的声明
+     1>j:\注入\reginject(2010)\reginject(2010)\reginject(2010).cpp(20): error C2784: “std::_Array_iterator<_Ty,_Size> std::operator +(_Array_iterator<_Ty,_Size>::difference_type,std::_Array_iterator<_Ty,_Size>)”: 未能从“const wchar_t [2]”为“std::_Array_iterator<_Ty,_Size>”推导 模板 参数
+                 d:\software\vs2010\vc\include\xutility(2068) : 参见“std::operator +”的声明
+     1>j:\注入\reginject(2010)\reginject(2010)\reginject(2010).cpp(20): error C2784: “std::_Array_const_iterator<_Ty,_Size> std::operator +(_Array_const_iterator<_Ty,_Size>::difference_type,std::_Array_const_iterator<_Ty,_Size>)”: 未能从“const wchar_t [2]”为“std::_Array_const_iterator<_Ty,_Size>”推导 模板 参数
+                 d:\software\vs2010\vc\include\xutility(1929) : 参见“std::operator +”的声明
+     1>j:\注入\reginject(2010)\reginject(2010)\reginject(2010).cpp(20): error C2784: “std::reverse_iterator<_RanIt> std::operator +(_Diff,const std::reverse_iterator<_RanIt> &)”: 未能从“const wchar_t [2]”为“const std::reverse_iterator<_RanIt> &”推导 模板 参数
+                 d:\software\vs2010\vc\include\xutility(1323) : 参见“std::operator +”的声明
+     1>j:\注入\reginject(2010)\reginject(2010)\reginject(2010).cpp(20): error C2784: “std::_Revranit<_RanIt,_Base> std::operator +(_Diff,const std::_Revranit<_RanIt,_Base> &)”: 未能从“const wchar_t [2]”为“const std::_Revranit<_RanIt,_Base> &”推导 模板 参数
+                 d:\software\vs2010\vc\include\xutility(1136) : 参见“std::operator +”的声明
+     1>j:\注入\reginject(2010)\reginject(2010)\reginject(2010).cpp(20): error C2676: 二进制“+”:“std::wstring”不定义该运算符或到预定义运算符可接收的类型的转换
+         正在生成代码...
+     1>已完成生成项目“J:\注入\RegInject(2010)\RegInject(2010)\RegInject(2010).vcxproj”(rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.81

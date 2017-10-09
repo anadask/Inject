@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  InjectDllBySetWindowsHookEx.cpp
+j:\注入\injectdllbysetwindowshookex\injectdllbysetwindowshookex\injectdllbysetwindowshookex.cpp(14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“HMODULE”
+j:\注入\injectdllbysetwindowshookex\injectdllbysetwindowshookex\injectdllbysetwindowshookex.cpp(14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“FARPROC”
+  InjectDllBySetWindowsHookEx.vcxproj -> J:\注入\InjectDllBySetWindowsHookEx\Debug\InjectDllBySetWindowsHookEx.exe

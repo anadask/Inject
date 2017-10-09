@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  RegInject.cpp
+j:\注入\reginject\reginject\reginject.cpp(16): warning C4129: “ ”: 不可识别的字符转义序列
+  正在生成代码...
+  RegInject.vcxproj -> J:\注入\RegInject\Debug\RegInject.exe

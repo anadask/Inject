@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  RegInject.cpp
+j:\注入\reginject\reginject\reginject.cpp(14): warning C4129: “ ”: 不可识别的字符转义序列
+j:\注入\reginject\reginject\reginject.cpp(70): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在生成代码...
+  RegInject.vcxproj -> J:\注入\RegInject\x64\Debug\RegInject.exe
